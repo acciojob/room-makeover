@@ -7,7 +7,7 @@
  Acceptance Criteria
 
 
- - Inside a paragraph tag, write "My favorite color is `<color-name>`"
+ - Inside a paragraph tag, write "My favorite color is `<color-name>`
  
  - Enclose the color in span tags and give it a class attribute. The class should have a value `favorite-color`
  
